@@ -1,15 +1,19 @@
 # Qualidade de Software 2017/2 - Controle de Mudanças
 Repositório para prática do processo de controle de mudanças da disciplina de Qualidade de Software 2017/2.
 
-Modelo de organizacao: Kanban modificado
+Modelo de organizacao: Churupita
 
 Board
+	Backlog
 	Todo
-	Doing
+	Dev
+	Espera de review
+	Review
+	Aprovado
 	Done
 
 Papeis
-	Manager - Lucas
+	Master - Bruno
 	Equipe
 		Allison
 		Bruno
@@ -17,3 +21,10 @@ Papeis
 		Felipe
 		Lucas
 		Vinicuis
+
+Fluxo
+	Master com equipe -> define tasks
+	Master -> atribui task a membro de equipe
+	Equipe -> Realiza task
+	Equipe -> Realiza review
+	Master -> Reatribui ou finaliza task
