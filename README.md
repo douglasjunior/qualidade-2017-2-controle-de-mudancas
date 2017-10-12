@@ -13,18 +13,22 @@ Board
 	Done
 
 Papeis
-	Master - Bruno
-	Equipe
-		Allison
-		Bruno
-		Eduardo
-		Felipe
-		Lucas
-		Vinicuis
+	Master - Bruno  
+	Equipe  
+		Allison  
+		Bruno  
+		Eduardo  
+		Felipe  
+		Lucas  
+		Vinicuis  
 
-Fluxo
-	Master com equipe -> define tasks
-	Master -> atribui task a membro de equipe
-	Equipe -> Realiza task
-	Equipe -> Realiza review
-	Master -> Reatribui ou finaliza task
+Fluxo  
+	Master com equipe -> define tasks  
+	Master -> atribui task a membro de equipe  
+	Equipe -> Realiza task  
+	Equipe -> Realiza review  
+	Master -> Reatribui ou finaliza task  
+
+Plataformas  
+	servidor - node  
+	client - react  
